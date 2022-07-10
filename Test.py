@@ -175,7 +175,7 @@ class SpatialAttention(nn.Module):
         return self.sigmoid(x)
       
                   
-# Define ISTA-Net Block
+# Define IAMP-Net Block
 class BasicBlock(torch.nn.Module):
 	def __init__(self,phil,phir):
 		super(BasicBlock, self).__init__()
@@ -335,7 +335,7 @@ if not os.path.exists(model_dir):
 	os.makedirs(model_dir)
 if start_epoch > 1:
 	pre_model_dir = model_dir
-	model.load_state_dict(torch.load("net_params_160.pth", map_location=device))
+	model.load_state_dict(torch.load("net_params_100.pth", map_location=device))
 #iTlos = np.zeros((1,5000)) 
 #fTlos = np.zeros((1,5000))
 
