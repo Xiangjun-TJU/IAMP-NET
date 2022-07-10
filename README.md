@@ -9,6 +9,8 @@ Deep-unfolding method based on improved AMP is used to reconstuct underlying sce
 # Results
 1.Comparison of our ULAMP-Net and other state-of-the-art methods on testing set, including: (b) UDN, (c) LAMP, (d) ISTA-Net, (e) AMP-Net, (f) UNet,(g,h) FlatNet-T/-R, (i)UNet-DBPN, (j) MMCN and (k) our ULAMP-Net. Lensless measurments are shown in (a), and corresponding ground truths are shown in (j) for visual comparison.
 ![Image text](https://github.com/Xiangjun-TJU/IAMP-NET/blob/main/Comparison.png)
+2.
+![Image text](https://github.com/Xiangjun-TJU/IAMP-NET/blob/main/Tab1.png)
 # Citation
 If you use this code, please cite our work:
 
