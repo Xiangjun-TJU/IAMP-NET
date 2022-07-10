@@ -5,12 +5,4 @@ Deep-unfolding method based on improved AMP is used to reconstuct underlying sce
 # Citation
 If you use this code, please cite our work:
 
-@ARTICLE{9801650,
-  author={Yang, Jingyu and Yin, Xiangjun and Zhang, Mengxi and Yue, Huihui and Cui, Xingyu and Yue, Huanjing},
-  journal={IEEE Transactions on Computational Imaging}, 
-  title={Learning Image Formation and Regularization in Unrolling AMP for Lensless Image Reconstruction}, 
-  year={2022},
-  volume={8},
-  number={},
-  pages={479-489},
-  doi={10.1109/TCI.2022.3181473}}
+J. Yang, X. Yin, M. Zhang, H. Yue, X. Cui and H. Yue, "Learning Image Formation and Regularization in Unrolling AMP for Lensless Image Reconstruction," in IEEE Transactions on Computational Imaging, vol. 8, pp. 479-489, 2022, doi: 10.1109/TCI.2022.3181473.
