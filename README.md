@@ -7,7 +7,7 @@ Deep-unfolding method based on improved AMP is used to reconstuct underlying sce
 ![Image text](https://github.com/Xiangjun-TJU/IAMP-NET/blob/main/Netork.png)
 
 # Results
-![Image text](https://github.com/Xiangjun-TJU/IAMP-NET/blob/main/Netork.png)
+![Image text](https://github.com/Xiangjun-TJU/IAMP-NET/blob/main/Comparison.png)
 # Citation
 If you use this code, please cite our work:
 
